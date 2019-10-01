@@ -2896,5 +2896,8 @@
 
     <!-- FPS Info tile -->
     <string name="quick_settings_fpsinfo_label">FPS Info</string>
+    
+    <!-- Status bar icons -->
+    <string name="status_bar_nfc">NFC</string>
 
 </resources>
