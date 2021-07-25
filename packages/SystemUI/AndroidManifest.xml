@@ -281,6 +281,10 @@
     <!-- DataSwitch tile -->
     <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" />
 
+    <!-- VPN Tile -->
+    <uses-permission android:name="android.permission.MAINLINE_NETWORK_STACK" />
+    <uses-permission android:name="android.permission.NETWORK_STACK" />
+
     <!-- Asus Long screenshot -->
     <uses-permission android:name="com.asus.stitchimage.permission.EXPORTED_FOR_ASUS_APPS"/>
 
